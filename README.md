@@ -68,7 +68,7 @@ hemisphere_image_urls = [
 ### - [app.py - Flask app](https://github.com/Pyligent/mars_scraper/blob/master/app.py)   
 ### - [Website HTML file](https://github.com/Pyligent/mars_scraper/blob/master/templates/index.html)   
 
-Use MongoDB with Flask templating to create a new HTML page that displays all of the information that was scraped from the URLs above.
+Use MongoDB with Flask templating to create a new HTML page that displays all of the information that was scraped from the URLs above.The following is the final website:
 
 ![final_app_part1.png](img/Flaskapp_web1.png)   
 <br>
