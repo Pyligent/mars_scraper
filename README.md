@@ -6,7 +6,7 @@ Build a web application that scrapes various websites for data related to the Mi
 
 ## Scraping
 
-![Mission to Mars -- Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/mars_scraper/blob/master/mission_to_mars_tj.ipynb)
+[Mission to Mars -- Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/mars_scraper/blob/master/mission_to_mars_tj.ipynb)
 
 ### NASA Mars News
 
@@ -64,9 +64,9 @@ hemisphere_image_urls = [
 
 ## MongoDB and Flask Application
 
-![scraper_mars.py](https://github.com/Pyligent/mars_scraper/blob/master/scrape_mars.py)
-![app.py - Flask app](https://github.com/Pyligent/mars_scraper/blob/master/app.py)
-![Website HTML file](https://github.com/Pyligent/mars_scraper/blob/master/templates/index.html)
+[scraper_mars.py](https://github.com/Pyligent/mars_scraper/blob/master/scrape_mars.py)
+[app.py - Flask app](https://github.com/Pyligent/mars_scraper/blob/master/app.py)
+[Website HTML file](https://github.com/Pyligent/mars_scraper/blob/master/templates/index.html)
 
 Use MongoDB with Flask templating to create a new HTML page that displays all of the information that was scraped from the URLs above.
 
@@ -81,6 +81,7 @@ Use MongoDB with Flask templating to create a new HTML page that displays all of
 * Create a template HTML file called `index.html` that will take the mars data dictionary and display all of the data in the appropriate HTML elements. Use the following as a guide for what the final product should look like, but feel free to create your own design.
 
 ![final_app_part1.png](img/Flaskapp_web1.png)
+<br>
 ![final_app_part2.png](img/web2.png)
 ![final_app_part3.png](img/web3.png)
 
