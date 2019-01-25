@@ -6,7 +6,7 @@ Build a web application that scrapes various websites for data related to the Mi
 
 ## Scraping
 
-### [Mission to Mars -- Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/mars_scraper/blob/master/mission_to_mars_tj.ipynb)
+### - [Mission to Mars -- Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/mars_scraper/blob/master/mission_to_mars_tj.ipynb)
 
 #### NASA Mars News
 
@@ -64,9 +64,9 @@ hemisphere_image_urls = [
 
 ## MongoDB and Flask Application
 
-### [scraper_mars.py](https://github.com/Pyligent/mars_scraper/blob/master/scrape_mars.py)   
-### [app.py - Flask app](https://github.com/Pyligent/mars_scraper/blob/master/app.py)   
-### [Website HTML file](https://github.com/Pyligent/mars_scraper/blob/master/templates/index.html)   
+### - [scraper_mars.py](https://github.com/Pyligent/mars_scraper/blob/master/scrape_mars.py)   
+### - [app.py - Flask app](https://github.com/Pyligent/mars_scraper/blob/master/app.py)   
+### - [Website HTML file](https://github.com/Pyligent/mars_scraper/blob/master/templates/index.html)   
 
 Use MongoDB with Flask templating to create a new HTML page that displays all of the information that was scraped from the URLs above.
 
